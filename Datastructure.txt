@@ -1,0 +1,42 @@
+Campus Abnormal Behavior Recognition With Temporal Segment Transformers
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:12.April.2023
+
+
+Action recognition, campus abnormal behavior, computer vision, motion sequence features,
+temporal segment transformer.
+
+Campus_Abnormal_Behavior_Recognition
+
+
+campus_abnormal_behavior_recognition
+
+
+falling
+kicking
+backflipping
+Normal
+
+
+Sid	
+Certification_Course	
+Gender	
+Department	
+Height_CM	
+Weight_KG	
+Tenth_Mark	
+Twelth_Mark	
+college_mark	
+hobbies	
+daily_studing_time	
+prefer_to_study_in	
+degree_willingness  	
+social_medai_video	
+Travelling_Time 	
+Stress_Level 	
+Financial_Status	
+part_time_job	
+Prediction
+
+
